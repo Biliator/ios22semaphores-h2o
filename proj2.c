@@ -1,8 +1,6 @@
 /**
  * ==========================================================
  * @author Valentyn Vorobec
- * login: xvorob02
- * email: xvorob02@stud.fit.vutbr.cz
  * Datum vytvoření: 2022
  * ==========================================================
  */
